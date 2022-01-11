@@ -1,0 +1,31 @@
+menu mais mais transparente {
+
+  background: transparent;
+  mix-blend-mode: multiply;
+  box-shadow: 0px 2px 2px 1px rgb(0 0 0 / 25%);
+
+} - ok
+
+Sua box cheia de surpresas com temas diferentes todo mês! - "kidsbar" - ok
+
+Proporcione momentos únicos em família! - maior o espaço - ok
+
+balao amarelo pegando na parte branca de baixo, foto no whats, - ok
+
+back azul fora de posiçao foto no whats. - ok
+
+cegonha_voando - excluir - ok
+
+texto como funciona> Receba : Receba em casa a sua CegonhaBox com um tema diferente a cada mês - ok
+
+Descubra oque você vai receber> deixar receber em laranja - ok 
+
+trocar mãe cegonha fala por família-cegonha fala - ok
+
+diminui distancia dos cards do como funciona - ok 
+
+descubra oq vc vai receber - esta caindo fora no 320px - ok 
+
+muito alem da diversao - esta caindo fora no 320px - ok
+
+background rodape fora no 320 - ok

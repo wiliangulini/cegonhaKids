@@ -1,0 +1,21 @@
+body .container-fluid.nav {
+  top: 0;
+}
+header {
+  background: #FFF;
+}
+nav.d-flex ul li a {
+  color: #2f4a95;
+}
+main.my-5 {
+  margin: 9% 0% 12% !important;
+}
+nav.d-flex ul li.btn-blue {
+  background-color: #FFF;
+  box-shadow: 1px 1px 8px rgb(0 0 0 / 50%);
+}
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  main.my-5 {
+    margin: 28% 0% 12% !important;
+  }
+}
